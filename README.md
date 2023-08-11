@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Sharma</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m a backend developer **
 
 - 💬 Ask me about **React, Python, C++ , Competitive programming**
 
