@@ -3,7 +3,7 @@
 
 - 🌱 I’m a backend developer **
 
-- 💬 Ask me about **Nodejs, Python, C++ , Competitive programming**
+- 💬 Ask me about **Nodejs ,MongoDb ,Python,C++ ,Competitive programming**
 
 - 📫 How to reach me **sharma.prateek00000@gmail.com**
 
