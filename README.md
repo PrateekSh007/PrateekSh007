@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateeksh007" alt="prateeksh007" /></a> </p>
 
-- 🔭 I’m currently working as an **SDE Intern at PeopleHum , Bangalore**
+- 🔭 I’m currently working as an **SDE at Coforge , Noida**
 
 - 💬 Ask me about **SpringBoot, Angular, TypeScript, NLP, GENAI**
 
